@@ -32,7 +32,6 @@ My journey as a computer enthusiast has led me to develop a passion for cybersec
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/Google_Cybersecurity_Professional_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </div>
