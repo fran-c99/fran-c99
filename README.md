@@ -8,22 +8,22 @@ I have a profound interest in technology, focusing on privacy and secure technol
 My journey as a computer enthusiast has led me to develop a passion for cybersecurity, and I am now eager to transition into this field. 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/Wazuh_SIEM-2B9FC3?style=for-the-badge&logo=wazuh&logoColor=white" />
 </div>
 
 ### DNS
@@ -37,5 +37,4 @@ My journey as a computer enthusiast has led me to develop a passion for cybersec
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Home lab SIEM implementation
