@@ -37,4 +37,4 @@ My journey as a computer enthusiast has led me to develop a passion for cybersec
 </div>
 
 ## Projects
-- Home lab SIEM implementation
+- Home lab
