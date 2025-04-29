@@ -9,10 +9,10 @@ My journey as a computer enthusiast has led me to develop a passion for cybersec
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Skill                                         
+|-----------------------------------------------
+| SIEM Implementation and Log Analysis          
+| Network Traffic Monitoring and Attack Detection
 
 ## Tools
 
