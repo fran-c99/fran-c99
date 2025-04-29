@@ -45,4 +45,4 @@ My journey as a computer enthusiast has led me to develop a passion for cybersec
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/fran-c99/Detection-Lab-Project">Detection Lab</a>
