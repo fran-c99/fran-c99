@@ -31,6 +31,11 @@ My journey as a computer enthusiast has led me to develop a passion for cybersec
     <img src="https://img.shields.io/badge/NextDNS-000000?style=for-the-badge&logo=nextdns&logoColor=white" />
 </div>
 
+### Firewall
+<div>
+    <img src="[https://img.shields.io/badge/NextDNS-000000?style=for-the-badge&logo=nextdns&logoColor=white](https://img.shields.io/badge/Portmaster-000000?style=for-the-badge)" />
+</div>
+
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/Google_Cybersecurity_Professional_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" />
