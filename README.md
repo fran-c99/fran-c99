@@ -13,6 +13,9 @@ My journey as a computer enthusiast has led me to develop a passion for cybersec
 |-----------------------------------------------
 | SIEM Implementation and Log Analysis          
 | Network Traffic Monitoring and Attack Detection
+| Firewall configuration
+| Linux
+| Privacy
 
 ## Tools
 
