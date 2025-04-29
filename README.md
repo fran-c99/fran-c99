@@ -32,7 +32,6 @@ My journey as a computer enthusiast has led me to develop a passion for cybersec
 </div>
 
 ### Firewall
-### Firewall
 <div>
     <img src="https://img.shields.io/badge/Portmaster-1A2B3C?style=for-the-badge&logo=safingio&logoColor=white" />
 </div>
