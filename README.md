@@ -19,7 +19,7 @@ My journey as a computer enthusiast for over 12+ years has led me to develop a p
 | Virtual Machines
 ## Tools
 
-###Operating Systems
+### Operating Systems
 <div> 
     <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" /> 
 </div> 
