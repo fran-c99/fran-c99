@@ -3,9 +3,9 @@
 
 I have always had a profound interest in computers and technology, focusing on privacy and secure technologies for individuals and companies alike. Combining my passion in Cybersecurity and computers with my strong background in Human Resources and customer services, I can bring a lot of trasitional skills into this field.
 
-## Objective
+## About me
 
-My journey as a computer enthusiast for over 12+ years has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.
+Computer enthusiast for over 16+ years / Cybersecurity Student / Passionate about open source project and community driven initiatives / Gamer 👾 
 
 ## Skills
 
@@ -71,5 +71,3 @@ My journey as a computer enthusiast for over 12+ years has led me to develop a p
 <img src="https://img.shields.io/badge/Google_Cybersecurity_Professional_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </div>
 
-## Projects
-- <a href="https://github.com/fran-c99/Detection-Lab-Project">Detection Lab</a>
