@@ -16,7 +16,7 @@ My journey as a computer enthusiast for over 12+ years has led me to develop a p
 | Firewall configuration
 | Linux (Fedora 42 KDE, 41 KDE, Ubuntu 25.04, 24.04.2 LTS)
 | Privacy
-
+| Virtual Machines
 ## Tools
 
 ### Network
@@ -41,6 +41,11 @@ My journey as a computer enthusiast for over 12+ years has led me to develop a p
 ### Firewall
 <div>
     <img src="https://img.shields.io/badge/Portmaster-1A2B3C?style=for-the-badge&logo=safingio&logoColor=white" />
+</div>
+
+### Virtual Machines
+<div> 
+    <img src="https://img.shields.io/badge/Oracle_VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" /> 
 </div>
 
 ## Certifications
