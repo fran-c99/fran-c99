@@ -5,7 +5,7 @@ I have always had a profound interest in computers and technology, focusing on p
 
 ## About me
 
-Computer enthusiast for over 16+ years / Cybersecurity Student / Passionate about open source project and community driven initiatives / Gamer 👾 
+Computer enthusiast for over 16 years / Cybersecurity Student / Passionate about open source project and community driven initiatives / Gamer 👾 
 
 ## Skills
 
