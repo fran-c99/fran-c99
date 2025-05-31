@@ -14,7 +14,7 @@ My journey as a computer enthusiast for over 12+ years has led me to develop a p
 | SIEM Implementation and Log Analysis          
 | Network Traffic Monitoring and Attack Detection
 | Firewall configuration
-| Linux (Fedora 42 KDE, 41 KDE, Ubuntu 25.04, 24.04.2 LTS)
+| Linux (Fedora 42 KDE, 41 KDE) (Ubuntu 25.04, 24.04.2 LTS)
 | Privacy
 | Virtual Machines
 ## Tools
