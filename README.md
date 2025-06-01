@@ -46,9 +46,13 @@ Computer enthusiast for over 16 years / Cybersecurity Student / Passionate about
     <img src="https://img.shields.io/badge/Nmap-E90B0B?style=for-the-badge&logo=nmap&logoColor=white" />
 </div>
 
-### SIEM
+### Security and data analytics tools 
 <div>
     <img src="https://img.shields.io/badge/Wazuh_SIEM-2B9FC3?style=for-the-badge&logo=wazuh&logoColor=white" />
+</div>
+
+<div>
+    <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
 </div>
 
 ### DNS
