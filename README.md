@@ -1,7 +1,7 @@
 # Hello, I'm Francisco Chaves
 <a href="https://www.linkedin.com/in/franchaves/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I have a profound interest in computers and technology, focusing on privacy and secure technologies for individuals and companies alike. Combining my passion in Cybersecurity and computers with my strong background in Human Resources and customer services, I can bring a lot of trasitional skills into this field.
+I have a profound interest in computers and technology, focusing on privacy and secure technologies for individuals and companies alike. Combining my understanding in Cybersecurity and computers with my strong background in Human Resources and customer services, I can bring a lot of trasitional skills into this field.
 
 ## About me
 
