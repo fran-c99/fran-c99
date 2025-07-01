@@ -1,20 +1,21 @@
 # Hello, I'm Francisco Chaves
 <a href="https://www.linkedin.com/in/franchaves/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I have a profound interest in computers and technology, focusing on privacy and secure technologies for individuals and companies alike. Combining my understanding in Cybersecurity and computers with my strong background in Human Resources and customer services, I can bring a lot of trasitional skills into this field.
+I'm a Junior Cybersecurity Analyst focusing on private and secure tools and solutions. Combining my knowledge with my strong background in Human Resources and Customer Service, I can implement and bring people centered ideas into this field.
 
 ## About me
 
-Computer enthusiast for over 16 years / Cybersecurity Analyst / Data Privacy Advocate. Passionate about Open-Source projects and Community Driven initiatives.
+Computer enthusiast for over 15+ years / Cybersecurity Analyst / Data Privacy Advocate. Passionate about Open-Source projects and Community Driven initiatives.
 
 ## Skills
 
 | Skills                                        
 |-----------------------------------------------
-| SIEM Implementation and Log Analysis          
+| SIEM implementation and Log Analysis          
 | Network Traffic Monitoring and Attack Detection
+| Security frameworks
 | Firewall configuration
-| Privacy
+| Linux
 | Virtual Machines
 
 ## Tools & Technical Skills
