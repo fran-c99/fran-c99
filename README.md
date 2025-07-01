@@ -30,6 +30,9 @@ Computer enthusiast for over 15+ years / Cybersecurity Analyst / Data Privacy Ad
 <div> 
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> 
 </div> 
+<div>
+    <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white" />
+</div>
 <div> 
     <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" /> 
 </div>
