@@ -15,7 +15,7 @@ Computer enthusiast for over 15+ years & Data Privacy Advocate. Passionate about
 | Incident Response Planning and Execution | |
 | Security Frameworks (NIST CSF 2.0)       | |
 | Network Traffic Monitoring and Attack Detection| |
-| SQL                | <a href="[https://github.com/fran-c99/SQL-Queries">Home Detection Lab</a>|
+| SQL                | <a href="[https://github.com/fran-c99/SQL-Queries">SQL queries</a>|
 | Firewall configuration | |
 | Linux | |
 | Virtual Machines| |
