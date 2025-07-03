@@ -24,18 +24,23 @@ Computer enthusiast for over 15+ years & Data Privacy Advocate. Passionate about
 <div> 
     <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" /> 
 </div> 
+
 <div> 
     <img src="https://img.shields.io/badge/Fedora_Asahi-FF7D00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTI1NiA4QzExOSA4IDggMTE5IDggMjU2czExMSAyNDggMjQ4IDI0OCAyNDgtMTExIDI0OC0yNDhTMzkzIDggMjU2IDh6bTAgNDQ4Yy0xMTAuNSAwLTIwMC04OS41LTIwMC0yMDBTMTQ1LjUgNTYgMjU2IDU2czIwMCA4OS41IDIwMCAyMDAtODkuNSAyMDAtMjAwIDIwMHptNjguOC0xNTQuMWMtMjAuOCAxOS4zLTUyLjIgMzAuNS04Ni4xIDMwLjUtNjkuOSAwLTEyNi41LTU0LjMtMTI2LjUtMTIxLjQgMC02NyA1Ni41LTEyMS40IDEyNi41LTEyMS40IDMzLjkgMCA2NS4zIDExLjIgODYuMSAzMC41LTEyLjggMTEuOC0yMS41IDI4LjQtMjEuNSA0Ni45IDAgMTguNCA4LjcgMzUuMSAyMS41IDQ2Ljl6Ii8+PC9zdmc+&logoColor=white" /> 
 </div>
+
 <div> 
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> 
 </div> 
+
 <div>
     <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white" />
 </div>
+
 <div> 
     <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" /> 
 </div>
+
 <div> 
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> 
 </div>
@@ -61,6 +66,12 @@ Computer enthusiast for over 15+ years & Data Privacy Advocate. Passionate about
 
 <div>
     <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+</div>
+
+### IDEs
+
+<div>
+    <img src="https://img.shields.io/badge/VSCodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white" />
 </div>
 
 ### DNS Setup
