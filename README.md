@@ -11,12 +11,26 @@ Computer enthusiast for over 15+ years & Data Privacy Advocate. Passionate about
 
 | Skills                                        
 |-----------------------------------------------
-| SIEM implementation and Log Analysis          
+| SIEM Implementation and Log Analysis
+| Incident Response Planning and Execution  
+| Security Frameworks (NIST CSF 2.0)
 | Network Traffic Monitoring and Attack Detection
-| Security frameworks (NIST CSF 2.0)
+| SQL
 | Firewall configuration
 | Linux
 | Virtual Machines
+
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Incident Response Planning and Execution | <a href="https://google.com">Detection Lab</a>|
+| Security Frameworks (NIST CSF 2.0)       | SOC Automation Lab|
+| Network Traffic Monitoring and Attack Detection| SOC Automation Lab|
+| SQL                | SOC Automation Lab|
+| Firewall configuration | SOC Automation Lab|
+| Linux | |
+| Virtual Machines| |
 
 ## Tools & Technical Skills
 
@@ -100,6 +114,10 @@ Computer enthusiast for over 15+ years & Data Privacy Advocate. Passionate about
 <div>
     <img src="https://img.shields.io/badge/UTM_Virtual_Machine-000000?style=for-the-badge&logo=apple&logoColor=white" />
 </div>
+
+## Projects 
+
+- Apply filters to SQL queries
 
 ## Certifications
 <div>
