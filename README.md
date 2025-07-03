@@ -11,8 +11,8 @@ Computer enthusiast for over 15+ years & Data Privacy Advocate. Passionate about
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Incident Response Planning and Execution | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/fran-c99/Detection-Lab-Project>Detection Lab</a>|
+| Incident Response Planning and Execution | |
 | Security Frameworks (NIST CSF 2.0)       | |
 | Network Traffic Monitoring and Attack Detection| |
 | SQL                | |
