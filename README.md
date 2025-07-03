@@ -63,12 +63,12 @@ Computer enthusiast for over 15+ years & Data Privacy Advocate. Passionate about
     <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
 </div>
 
-### DNS
+### DNS Setup
 <div>
     <img src="https://img.shields.io/badge/NextDNS-000000?style=for-the-badge&logo=nextdns&logoColor=white" />
 </div>
 
-### Firewall
+### Firewall Setup
 <div>
     <img src="https://img.shields.io/badge/Portmaster-1A2B3C?style=for-the-badge&logo=safingio&logoColor=white" />
 </div>
