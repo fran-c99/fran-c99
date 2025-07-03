@@ -13,7 +13,7 @@ Computer enthusiast for over 15+ years & Data Privacy Advocate. Passionate about
 |-----------------------------------------------
 | SIEM implementation and Log Analysis          
 | Network Traffic Monitoring and Attack Detection
-| Security frameworks
+| Security frameworks (NIST CSF 2.0)
 | Firewall configuration
 | Linux
 | Virtual Machines
@@ -69,9 +69,21 @@ Computer enthusiast for over 15+ years & Data Privacy Advocate. Passionate about
     <img src="https://img.shields.io/badge/Portmaster-1A2B3C?style=for-the-badge&logo=safingio&logoColor=white" />
 </div>
 
+<div>
+    <img src="https://img.shields.io/badge/Windows_Firewall-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</div>
+
+<div>
+    <img src="https://img.shields.io/badge/macOS_Firewall-000000?style=for-the-badge&logo=apple&logoColor=white" />
+</div>
+
 ### Virtual Machines
 <div> 
     <img src="https://img.shields.io/badge/Oracle_VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" /> 
+</div>
+
+<div>
+    <img src="https://img.shields.io/badge/UTM_Virtual_Machine-000000?style=for-the-badge&logo=apple&logoColor=white" />
 </div>
 
 ## Certifications
