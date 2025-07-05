@@ -54,11 +54,13 @@ Computer enthusiast for over 15+ years & Data Privacy Advocate. Passionate about
 </div>
 
 <div>
-    <img src="https://img.shields.io/badge/Nmap-E90B0B?style=for-the-badge&logo=nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 </div>
 
+### Penetration Testing
+
 <div>
-    <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/Nmap-E90B0B?style=for-the-badge&logo=nmap&logoColor=white" />
 </div>
 
 ### Security and data analytics tools 
