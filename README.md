@@ -9,7 +9,7 @@ Computer enthusiast for over 15+ years & Data Privacy Advocate. Passionate about
 
 ## Skills
 
-| Skill                                         | Associated Project/Portafolio         |
+| Skill                                         | Associated Project / Portafolio         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | |
 | Incident Response Planning and Execution | |
@@ -109,8 +109,11 @@ Computer enthusiast for over 15+ years & Data Privacy Advocate. Passionate about
 
 - Apply filters to SQL queries
 
-## Certifications
+## Learning & Certifications
+
 <div>
 <img src="https://img.shields.io/badge/Google_Cybersecurity_Professional_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </div>
+
+
 
