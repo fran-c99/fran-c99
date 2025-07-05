@@ -9,7 +9,7 @@ Computer enthusiast for over 15+ years & Data Privacy Advocate. Passionate about
 
 ## Skills
 
-| Skill                                         | Associated Project / Portafolio         |
+| Skill                                         | Associated Project / Portfolio         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | |
 | Incident Response Planning and Execution | |
@@ -105,7 +105,7 @@ Computer enthusiast for over 15+ years & Data Privacy Advocate. Passionate about
     <img src="https://img.shields.io/badge/UTM_Virtual_Machine-000000?style=for-the-badge&logo=apple&logoColor=white" />
 </div>
 
-## Portafolio 
+## Portfolio 
 
 - Apply filters to SQL queries
 
