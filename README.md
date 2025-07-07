@@ -108,6 +108,7 @@ Computer enthusiast & Data Privacy Advocate. Passionate about Open-Source projec
 ## Portfolio 
 
 - Apply filters to SQL queries
+- Detection Lab Project
 
 ## Learning & Certifications
 
