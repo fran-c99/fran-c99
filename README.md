@@ -18,7 +18,7 @@ Computer enthusiast & Data Privacy Advocate. Passionate about Open-Source projec
 | SQL | <a href="https://github.com/fran-c99/SQL-Portafolio">SQL Portfolio</a>|
 | Firewall configuration | |
 | Linux | |
-| Virtual Machines| <a href="https://github.com/fran-c99/Detection-Lab-Project">Detection Lab Project</a>|
+| Virtual Machines| |
 
 ## Tools & Technical Skills
 
@@ -34,6 +34,10 @@ Computer enthusiast & Data Privacy Advocate. Passionate about Open-Source projec
 <div> 
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> 
 </div> 
+
+<div>
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+</div>
 
 <div>
     <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white" />
