@@ -5,7 +5,8 @@ I'm a Junior Cybersecurity Analyst focusing on private and secure tools and solu
 
 ## About me
 
-Computer enthusiast & Data Privacy Advocate. Passionate about Open-Source projects and Community Driven initiatives. I also love videogames!
+Computer enthusiast & Data Privacy Advocate. Passionate about Open-Source projects and Community Driven initiatives. 
+Linux user. 
 
 ## Skills
 
