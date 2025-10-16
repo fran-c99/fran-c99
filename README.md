@@ -68,6 +68,10 @@ Linux user.
     <img src="https://img.shields.io/badge/Nmap-E90B0B?style=for-the-badge&logo=nmap&logoColor=white" />
 </div>
 
+<div>
+    <img src="https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=hackthebox&logoColor=white" />
+</div>
+
 ### Security and data analytics tools 
 <div>
     <img src="https://img.shields.io/badge/Wazuh_SIEM-2B9FC3?style=for-the-badge&logo=wazuh&logoColor=white" />
