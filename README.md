@@ -29,7 +29,7 @@ Daily Linux user. Currently running Fedora 43 as my main Distro.
 
 ## Tools & Technical Skills
 
-### Operating Systems
+### Operating Systems & Servers
 <div> 
     <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" /> 
 </div> 
@@ -41,6 +41,10 @@ Daily Linux user. Currently running Fedora 43 as my main Distro.
 <div> 
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> 
 </div> 
+
+<div> 
+    <img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> 
+</div>
 
 <div>
     <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
@@ -71,10 +75,10 @@ Daily Linux user. Currently running Fedora 43 as my main Distro.
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> 
 </div>
 
-### IDEs
+### Web Servers
 
-<div>
-    <img src="https://img.shields.io/badge/VSCodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white" />
+<div> 
+    <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" /> 
 </div>
 
 ### Networking
@@ -123,7 +127,7 @@ Daily Linux user. Currently running Fedora 43 as my main Distro.
     <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
 </div>
 
-## Portfolio 
+## Portfolio (Work in progress)
 
 - Apply filters to SQL queries
 - Detection Lab Project
