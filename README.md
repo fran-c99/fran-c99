@@ -1,25 +1,29 @@
 # Hello, I'm Francisco Chaves
 <a href="https://www.linkedin.com/in/franchaves/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm a Junior Cybersecurity Analyst focusing on private and secure tools and solutions. Combining my knowledge with my strong background in Human Resources and Customer Service, I can implement and bring people centered ideas into this field.
+I'm a Computer Systems Engineering student and certified Junior Cybersecurity Analyst who is passionate about computers and the intersection between privacy & efficiency-first solutions with a human centered approach. 
 
 ## About me
 
-Computer enthusiast & Data Privacy Advocate. Passionate about Open-Source projects and Community Driven initiatives. 
+I'm a computer enthusiast & privacy advocate, learning every single day about something new in this field.
+I like Open-Source projects and community driven initiatives.
+
+
 Linux user. 
 
 ## Skills
 
 | Skill                                         | Associated Project / Portfolio         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | |
-| Incident Response Planning and Execution | |
-| Security Frameworks (NIST CSF 2.0)       | |
-| Network Traffic Monitoring and Attack Detection| |
 | SQL | <a href="https://github.com/fran-c99/SQL-Portafolio">SQL Portfolio</a>|
 | Firewall configuration | |
 | Linux | |
 | Virtual Machines| |
+| Docker | |
+| SIEM Implementation and Log Analysis          | |
+| Incident Response Planning and Execution | |
+| Security Frameworks (NIST CSF 2.0)       | |
+| Network Traffic Monitoring and Attack Detection| |
 
 ## Tools & Technical Skills
 
@@ -52,6 +56,24 @@ Linux user.
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> 
 </div>
 
+### Virtual Machines & Containerization
+<div> 
+    <img src="https://img.shields.io/badge/Oracle_VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" /> 
+</div>
+
+<div>
+    <img src="https://img.shields.io/badge/UTM_Virtual_Machine-000000?style=for-the-badge&logo=apple&logoColor=white" />
+</div>
+
+<div> 
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> 
+</div>
+
+### IDEs
+
+<div>
+    <img src="https://img.shields.io/badge/VSCodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white" />
+</div>
 
 ### Networking
 <div>
@@ -60,31 +82,6 @@ Linux user.
 
 <div>
     <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-</div>
-
-### Penetration Testing
-
-<div>
-    <img src="https://img.shields.io/badge/Nmap-E90B0B?style=for-the-badge&logo=nmap&logoColor=white" />
-</div>
-
-<div>
-    <img src="https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=hackthebox&logoColor=white" />
-</div>
-
-### Security and data analytics tools 
-<div>
-    <img src="https://img.shields.io/badge/Wazuh_SIEM-2B9FC3?style=for-the-badge&logo=wazuh&logoColor=white" />
-</div>
-
-<div>
-    <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-</div>
-
-### IDEs
-
-<div>
-    <img src="https://img.shields.io/badge/VSCodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white" />
 </div>
 
 ### DNS Setup
@@ -105,13 +102,23 @@ Linux user.
     <img src="https://img.shields.io/badge/macOS_Firewall-000000?style=for-the-badge&logo=apple&logoColor=white" />
 </div>
 
-### Virtual Machines
-<div> 
-    <img src="https://img.shields.io/badge/Oracle_VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" /> 
+### Penetration Testing
+
+<div>
+    <img src="https://img.shields.io/badge/Nmap-E90B0B?style=for-the-badge&logo=nmap&logoColor=white" />
 </div>
 
 <div>
-    <img src="https://img.shields.io/badge/UTM_Virtual_Machine-000000?style=for-the-badge&logo=apple&logoColor=white" />
+    <img src="https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=hackthebox&logoColor=white" />
+</div>
+
+### Security and data analytics tools 
+<div>
+    <img src="https://img.shields.io/badge/Wazuh_SIEM-2B9FC3?style=for-the-badge&logo=wazuh&logoColor=white" />
+</div>
+
+<div>
+    <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
 </div>
 
 ## Portfolio 
