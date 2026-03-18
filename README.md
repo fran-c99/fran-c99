@@ -1,16 +1,17 @@
 # Hello, I'm Francisco Chaves
 <a href="https://www.linkedin.com/in/franchaves/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm a Computer Systems Engineering student and certified Junior Cybersecurity Analyst who is passionate about computers and the intersection between privacy & efficiency-first solutions with a human centered approach. 
+I'm a Computer Systems Engineering student and certified Junior Cybersecurity Analyst who is deeply curious about computers and technology.
 
 ## About me
 
-I'm a computer enthusiast & privacy advocate, learning every single day about something new in this field.
-I like Open-Source projects and community driven initiatives.
+My professional background has equipped me with both technical skills and a human-centered approach to problem-solving. I also run a small independent business, EZTech, where I diagnose, repair, and optimize computers by disassembling machines, performing OS migrations, and solving whatever issue walks through the door.
+
+I'm passionate about Open-Source and community-driven initiatives.
+
+Daily Linux user. Currently running Fedora 43 as my main Distro.
 
 #### Disclaimer: Work in progress
-
-Linux user. 
 
 ## Skills
 
