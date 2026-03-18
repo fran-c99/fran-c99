@@ -8,6 +8,7 @@ I'm a Computer Systems Engineering student and certified Junior Cybersecurity An
 I'm a computer enthusiast & privacy advocate, learning every single day about something new in this field.
 I like Open-Source projects and community driven initiatives.
 
+#### Disclaimer: Work in progress
 
 Linux user. 
 
