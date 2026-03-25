@@ -5,11 +5,11 @@ I'm a Computer Systems Engineering student and certified Junior Cybersecurity An
 
 ## About me
 
-My professional background has equipped me with both technical skills and a human-centered approach to problem-solving. I also run a small independent business, EZTech, where I diagnose, repair, and optimize computers by disassembling machines, performing OS migrations, and solving whatever issue walks through the door.
+My professional background has equipped me with both technical skills and a human-centered approach to problem-solving. I also run a small independent business, EZTech, where I diagnose, repair, and optimize computers by disassembling machines, performing OS migrations, and solving other technical issues.
 
-I'm passionate about Open-Source and community-driven initiatives.
+I'm passionate about Open-Source software and community-driven initiatives.
 
-Daily Linux user. Currently running Fedora 43 as my main Distro.
+Daily Linux user. Currently running Fedora KDE 43 as my main distro.
 
 #### Disclaimer: Work in progress
 
@@ -21,13 +21,12 @@ Daily Linux user. Currently running Fedora 43 as my main Distro.
 | SQL | <a href="https://github.com/fran-c99/SQL-Portafolio">SQL Portfolio</a>|
 | Virtual Machines| <a href="https://github.com/fran-c99/Virtualization-Portfolio">Virtualization Portfolio</a>|
 | Docker | <a href="https://github.com/fran-c99/Docker-Portfolio">Docker Portfolio</a>|
-| Firewall configuration | |
-| Incident Response Planning and Execution | |
-| Security Frameworks (NIST CSF 2.0)       | |
+| Scripting & Automation | |
+| Security Audits | |
 
-## Tools & Technical Skills
+# Technical Skills, Tools and Knowledge
 
-### Operating Systems & Servers
+## Operating Systems & Servers
 <div> 
     <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" /> 
 </div> 
@@ -60,9 +59,13 @@ Daily Linux user. Currently running Fedora 43 as my main Distro.
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> 
 </div>
 
-### Virtual Machines & Containerization
+## Virtual Machines & Containerization
 <div> 
     <img src="https://img.shields.io/badge/Oracle_VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" /> 
+</div>
+
+<div> 
+    <img src="https://img.shields.io/badge/Boxes-4A86CF?style=for-the-badge&logo=gnome&logoColor=white" />  
 </div>
 
 <div>
@@ -73,29 +76,23 @@ Daily Linux user. Currently running Fedora 43 as my main Distro.
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> 
 </div>
 
-### Web Servers
+## Networking
 
-<div> 
-    <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" /> 
-</div>
-
-### Networking
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-</div>
-
-<div>
-    <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-</div>
-
-### DNS Setup
+#### DNS
 <div>
     <img src="https://img.shields.io/badge/NextDNS-000000?style=for-the-badge&logo=nextdns&logoColor=white" />
 </div>
 
-### Firewall Setup
+#### Network Protocol Analyzer
+
 <div>
-    <img src="https://img.shields.io/badge/Portmaster-1A2B3C?style=for-the-badge&logo=safingio&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+</div>
+
+#### Firewall Setup
+
+<div> 
+    <img src="https://img.shields.io/badge/firewalld-DA3B2A?style=for-the-badge&logo=fedora&logoColor=white" /> 
 </div>
 
 <div>
@@ -106,7 +103,18 @@ Daily Linux user. Currently running Fedora 43 as my main Distro.
     <img src="https://img.shields.io/badge/macOS_Firewall-000000?style=for-the-badge&logo=apple&logoColor=white" />
 </div>
 
-### Penetration Testing
+<div>
+    <img src="https://img.shields.io/badge/Portmaster-1A2B3C?style=for-the-badge&logo=safingio&logoColor=white" />
+</div>
+
+## Web Servers
+
+<div> 
+    <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" /> 
+</div>
+
+## Cybersecurity
+#### Penetration Testing
 
 <div>
     <img src="https://img.shields.io/badge/Nmap-E90B0B?style=for-the-badge&logo=nmap&logoColor=white" />
@@ -116,7 +124,7 @@ Daily Linux user. Currently running Fedora 43 as my main Distro.
     <img src="https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=hackthebox&logoColor=white" />
 </div>
 
-### Security and data analytics tools 
+#### Security and data analytics tools 
 <div>
     <img src="https://img.shields.io/badge/Wazuh_SIEM-2B9FC3?style=for-the-badge&logo=wazuh&logoColor=white" />
 </div>
@@ -125,11 +133,7 @@ Daily Linux user. Currently running Fedora 43 as my main Distro.
     <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
 </div>
 
-## Portfolio (Work in progress)
-
-- Apply filters to SQL queries
-
-## Learning & Certifications
+# Learning & Certifications
 
 <div>
 <img src="https://img.shields.io/badge/Google_Cybersecurity_Professional_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" />
