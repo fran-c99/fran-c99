@@ -17,15 +17,13 @@ Daily Linux user. Currently running Fedora 43 as my main Distro.
 
 | Skill                                         | Associated Project / Portfolio         |
 |-----------------------------------------------|----------------------------|
-| SQL | <a href="https://github.com/fran-c99/SQL-Portafolio">SQL Portfolio</a>|
-| Firewall configuration | |
 | Linux | |
+| SQL | <a href="https://github.com/fran-c99/SQL-Portafolio">SQL Portfolio</a>|
 | Virtual Machines| |
 | Docker | |
-| SIEM Implementation and Log Analysis          | |
+| Firewall configuration | |
 | Incident Response Planning and Execution | |
 | Security Frameworks (NIST CSF 2.0)       | |
-| Network Traffic Monitoring and Attack Detection| |
 
 ## Tools & Technical Skills
 
@@ -130,7 +128,6 @@ Daily Linux user. Currently running Fedora 43 as my main Distro.
 ## Portfolio (Work in progress)
 
 - Apply filters to SQL queries
-- Detection Lab Project
 
 ## Learning & Certifications
 
