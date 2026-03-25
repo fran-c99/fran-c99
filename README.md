@@ -15,7 +15,7 @@ Daily Linux user. Currently running Fedora 43 as my main Distro.
 
 ## Skills
 
-| Skill                                         | Associated Project / Portfolio         |
+| Skill                                         | Portfolio         |
 |-----------------------------------------------|----------------------------|
 | Linux | <a href="https://github.com/fran-c99/Linux-Portfolio">Linux Portfolio</a>|
 | SQL | <a href="https://github.com/fran-c99/SQL-Portafolio">SQL Portfolio</a>|
