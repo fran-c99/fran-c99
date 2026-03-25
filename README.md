@@ -81,7 +81,9 @@ Daily Linux user. Currently running Fedora KDE 43 as my main distro.
 <div> 
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" /> 
 </div>
-
+<div> 
+    <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" /> 
+</div>
 
 #### Programming Languages 
 <div> 
@@ -125,11 +127,6 @@ Daily Linux user. Currently running Fedora KDE 43 as my main distro.
 ## CRM (Customer Relationship Management)
 <div> 
     <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" /> 
-</div>
-
-## Web Servers
-<div> 
-    <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" /> 
 </div>
 
 ## Cybersecurity
