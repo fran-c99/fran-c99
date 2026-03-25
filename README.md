@@ -17,10 +17,10 @@ Daily Linux user. Currently running Fedora 43 as my main Distro.
 
 | Skill                                         | Associated Project / Portfolio         |
 |-----------------------------------------------|----------------------------|
-| Linux | |
+| Linux | <a href="https://github.com/fran-c99/Linux-Portfolio">Linux Portfolio</a>|
 | SQL | <a href="https://github.com/fran-c99/SQL-Portafolio">SQL Portfolio</a>|
-| Virtual Machines| |
-| Docker | |
+| Virtual Machines| <a href="https://github.com/fran-c99/Virtualization-Portfolio">Virtualization Portfolio</a>|
+| Docker | <a href="https://github.com/fran-c99/Docker-Portfolio">Docker Portfolio</a>|
 | Firewall configuration | |
 | Incident Response Planning and Execution | |
 | Security Frameworks (NIST CSF 2.0)       | |
