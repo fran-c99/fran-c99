@@ -21,8 +21,7 @@ Daily Linux user. Currently running Fedora KDE 43 as my main distro.
 | SQL | <a href="https://github.com/fran-c99/SQL-Portafolio">SQL Portfolio</a>|
 | Virtual Machines| <a href="https://github.com/fran-c99/Virtualization-Portfolio">Virtualization Portfolio</a>|
 | Docker | <a href="https://github.com/fran-c99/Docker-Portfolio">Docker Portfolio</a>|
-| Scripting & Automation | |
-| Security Audits | |
+| Python | <a href="https://github.com/fran-c99/Python-Portfolio">Python Portfolio</a>|
 
 # Technical Skills, Tools and Knowledge
 
@@ -76,6 +75,27 @@ Daily Linux user. Currently running Fedora KDE 43 as my main distro.
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> 
 </div>
 
+## Scripting, Programming Languages & Query Languages
+
+#### Scripting 
+<div> 
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" /> 
+</div>
+
+
+#### Programming Languages 
+<div> 
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
+</div>
+
+#### Query Languages
+<div> 
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> 
+</div>
+<div> 
+    <img src="https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" /> 
+</div>
+
 ## Networking
 
 #### DNS
@@ -84,42 +104,39 @@ Daily Linux user. Currently running Fedora KDE 43 as my main distro.
 </div>
 
 #### Network Protocol Analyzer
-
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
 #### Firewall Setup
-
 <div> 
     <img src="https://img.shields.io/badge/firewalld-DA3B2A?style=for-the-badge&logo=fedora&logoColor=white" /> 
 </div>
-
 <div>
     <img src="https://img.shields.io/badge/Windows_Firewall-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </div>
-
 <div>
     <img src="https://img.shields.io/badge/macOS_Firewall-000000?style=for-the-badge&logo=apple&logoColor=white" />
 </div>
-
 <div>
     <img src="https://img.shields.io/badge/Portmaster-1A2B3C?style=for-the-badge&logo=safingio&logoColor=white" />
 </div>
 
-## Web Servers
+## CRM (Customer Relationship Management)
+<div> 
+    <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" /> 
+</div>
 
+## Web Servers
 <div> 
     <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" /> 
 </div>
 
 ## Cybersecurity
 #### Penetration Testing
-
 <div>
     <img src="https://img.shields.io/badge/Nmap-E90B0B?style=for-the-badge&logo=nmap&logoColor=white" />
 </div>
-
 <div>
     <img src="https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=hackthebox&logoColor=white" />
 </div>
@@ -128,13 +145,11 @@ Daily Linux user. Currently running Fedora KDE 43 as my main distro.
 <div>
     <img src="https://img.shields.io/badge/Wazuh_SIEM-2B9FC3?style=for-the-badge&logo=wazuh&logoColor=white" />
 </div>
-
 <div>
     <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
 </div>
 
 # Learning & Certifications
-
 <div>
 <img src="https://img.shields.io/badge/Google_Cybersecurity_Professional_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </div>
