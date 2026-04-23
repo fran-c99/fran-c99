@@ -21,7 +21,6 @@ Daily Linux user. Currently running Fedora KDE 43 as my main distro.
 | SQL | <a href="https://github.com/fran-c99/SQL-Portafolio">SQL Portfolio</a>|
 | Virtual Machines| <a href="https://github.com/fran-c99/Virtualization-Portfolio">Virtualization Portfolio</a>|
 | Docker | <a href="https://github.com/fran-c99/Docker-Portfolio">Docker Portfolio</a>|
-| Python | <a href="https://github.com/fran-c99/Python-Portfolio">Python Portfolio</a>|
 
 # Technical Skills, Tools and Knowledge
 
