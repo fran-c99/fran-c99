@@ -5,7 +5,7 @@ Technical Support | Computer Systems Engineering student | Certified Junior Cybe
 
 ## About me
 
-IT Professional with +7 years of experience in transnational companies, certified Junior Cybersecurity Analyst and currently studying Computer Systems Engineering. Experienced in Technical Support, Training Delivery, Customer Service and Human Resources. Proficient with IT Service Management tools, troubleshooting methodologies, technical documentation and collaborating effortlessly between teams by communicating technical solutions into clear, actionable guidance. Well versed in Linux, Windows and MacOS, Data Analysis and Process Improvement. Known as a team player with excellent logical and analytical abilities while continuously exploring emerging technologies.
+IT Professional with +7 years of experience in multinational organizations, holding a Google Cybersecurity Professional certification and currently pursuing a B.S. in Computer Systems Engineering. Experienced in Technical Support, Training, Customer Service and Human Resources. Proficient in Linux, Windows and MacOS, ITSM tools, SaaS application administration and data analysis. Skilled in process improvement, access provisioning, security compliance, and technical documentation. Known for clear communication across technical and non-technical audiences, strong attention to detail, and a proactive drive to continuously explore emerging technologies.
 
 #### Disclaimer: Work in progress
 
