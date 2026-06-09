@@ -13,10 +13,8 @@ IT Professional with +7 years of experience in multinational organizations, hold
 
 | Skill                                         | Portfolio         |
 |-----------------------------------------------|----------------------------|
-| Linux | <a href="https://github.com/fran-c99/Linux-Portfolio">Linux Portfolio</a>|
 | SQL | <a href="https://github.com/fran-c99/SQL-Portafolio">SQL Portfolio</a>|
 | Virtual Machines| <a href="https://github.com/fran-c99/Virtualization-Portfolio">Virtualization Portfolio</a>|
-| Docker | <a href="https://github.com/fran-c99/Docker-Portfolio">Docker Portfolio</a>|
 
 # Technical Skills, Tools and Knowledge
 
