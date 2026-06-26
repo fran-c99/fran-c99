@@ -30,7 +30,7 @@ You can also visit the website itself by going to: https://eztechcr.page/
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/🗄_Database-EAF3DE?style=flat-square" /><br/>
       <strong>SQL Portfolio</strong><br/>
-      <sub>Data Analysis Q & Queries</sub><br/><br/>
+      <sub>Data Analysis & Queries</sub><br/><br/>
       <a href="https://github.com/fran-c99/SQL-Portafolio">
         <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white"/>
       </a>
